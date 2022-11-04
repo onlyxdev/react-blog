@@ -1,0 +1,24 @@
+.cardBody {
+    height: 350px;
+    width: 600px;
+    background-image: url(../../assets/minha-foto.jpg);
+    background-size: 100%;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px auto;
+}
+
+.cardBody:hover {
+    opacity: 70%;
+    transition: 0.7s;
+}
+
+.cardBody h1 {
+    color: white;
+}
+
+.cardGroups {
+    background: linear-gradient(90deg, rgba(255,245,30,1) 0%, rgba(0,0,0,1) 83%);
+}
