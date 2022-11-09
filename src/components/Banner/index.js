@@ -11,9 +11,7 @@ export default function Banner() {
                 </h1>
 
                 <p className={styles.paragrafo}>
-                Rhaenyra foi a única criança sobrevivente do Rei Viserys I com sua primeira mulher, uma senhora da Casa Arryn. 
-                Ela cresceu sendo preparada para se tornar a primeira rainha reinante dos Sete Reinos. Aos sete anos de idade, 
-                Rhaenyra montou a dragão-fêmea Syrax
+                Walter White é um professor de química na casa dos 50 anos que trabalha em uma escola secundária no Novo México. Para atender às necessidades de Skyler, sua esposa grávida, e Walt Junior, seu filho deficiente físico, ele tem que trabalhar duplamente. Sua vida fica ainda mais complicada quando descobre que está sofrendo de um câncer de pulmão incurável. Para aumentar rapidamente a quantidade de dinheiro que deixaria para sua família após sua morte, Walter usa seu conhecimento de química para fazer e vender metanfetamina, uma droga sintética.
                 </p>
             </div>
 
